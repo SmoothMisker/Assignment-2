@@ -7,7 +7,6 @@ public class assignment2 {
 		Scanner scan = new Scanner(System.in);
 		
 		int answer = (int) Math.floor(Math.random()*100 + 1);
-		System.out.println(answer);
 		int counter = 0;
 		
 		while(counter < 5) {
